@@ -8,7 +8,14 @@ server.use(morgan('dev'))
 server.use(express.urlencoded({ extended: true }))
 server.use(express.json())
 
-const upload = multer({ dest: 'uploads/'})
+const upload = multer({ dest: 'uploads/' })
+
+server.get('/', (req, res) => {
+    res.status(200).send({
+        status: 'success',
+        message: 'Welcome to Zoho Task API',
+    })
+})
 
 server.post('/htmlextract', upload.single('file'), async (req, res) => {
     try {
