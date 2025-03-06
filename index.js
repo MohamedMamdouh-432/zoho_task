@@ -29,6 +29,7 @@ server.post('/htmlextract', upload.single('file'), async (req, res) => {
     }
 })
 
-server.listen(3000, () => {
-    console.log(`Server Listening on localhost:3000 🔥`)
+const port = process.env.PORT || 3000
+server.listen(port, () => {
+    console.log(`Server Listening on localhost:${port} 🔥`)
 })
