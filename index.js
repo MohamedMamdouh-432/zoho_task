@@ -8,7 +8,16 @@ server.use(morgan('dev'));
 server.use(express.urlencoded({ extended: true }));
 server.use(express.json());
 
-const upload = multer({ dest: './tmp/uploads' });
+const storage = multer.diskStorage({
+    destination: function (req, file, cb) {
+        cb(null, '/tmp');
+    },
+    filename: function (req, file, cb) {
+        cb(null, file.originalname);
+    },
+});
+
+const upload = multer({ storage: storage });
 
 server.get('/', (_, res) => {
     res.status(200).send({
