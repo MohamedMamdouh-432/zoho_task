@@ -24,6 +24,7 @@ module.exports = async (htmlFile) => {
         const extractedText = extractText(document.body)
             .replace(/\s+/g, ' ')
             .trim()
+        await fs.unlink(htmlFile);
         return extractedText
     } catch (err) {
         console.error('Error reading file:', err)
