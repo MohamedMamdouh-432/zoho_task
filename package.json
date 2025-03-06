@@ -1,0 +1,21 @@
+{
+  "name": "zoho_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Mohamed Mamdouh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsdom": "^26.0.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
