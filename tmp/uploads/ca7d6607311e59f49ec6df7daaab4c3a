@@ -1,0 +1,299 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta name="viewport" content="width=device-width">
+<style>@media only screen and (max-width: 480px) {table[class="contentOuter"] { background: rgba(0, 0, 0, 0) !important } table[class="contentInner"] { width: 100% !important; padding: 0px; margin: 0px } img[class="zpImage"] { width: 260px !important; max-width: 360px !important; text-align: center; margin: 0px; padding: 0px } body, table, td, p, a, li, div, span, blockquote { } blockquote { outline: none !important; border: none !important } body { margin: 0px } pre { white-space: pre-wrap } table[class="zpImageCaption"] { text-align: left } table[class="cols"] { width: 100% !important; max-width: 100% !important; text-align: left } table[class="zpcolumns"] { text-align: left; margin: 0px } table[class="zpcolumn"] { text-align: left; margin: 0px } table[class="zpAlignPos"] { width: 100%; text-align: left; margin: 0px } .table table img { width: auto !important; max-width: 100% !important; max-height: none !important } td[class="txtsize"] { font-size: 18px !important } td[class="paddingcomp"] { padding-left: 15px !important; padding-right: 15px !important } td[class="bannerimgpad"] { padding: 0px !important } span[class="txtsize"] { font-size: 18px !important } img.imgsize_B { width: 100% !important; max-width: 100% !important; margin: 0px !important; padding: 0px !important } img.imgsize_F { width: 100% !important; max-width: 100% !important; margin: 0px !important; padding: 0px !important } img.imgsize_S { width: 100% !important; max-width: 105px !important; height: auto; margin: 0px auto !important; padding: 0px !important } img.imgsize_M { width: 100% !important; max-width: 227.869px !important; height: auto; margin: 0px auto !important; padding: 0px !important } img.imgsize_O { max-width: 100% !important; width: auto !important; height: auto !important } .buttonInnerLink { width: 100% !important; max-width: 250px !important; display: inline-block !important; word-wrap: break-word !important; text-align: center !important } .buttonOuterLink { width: 100% !important; max-width: 290px !important; display: inline-block !important; word-wrap: break-word !important; text-align: center !important } h1 { font-size: 28px !important; line-height: 100% !important } h2 { font-size: 24px !important; line-height: 100% !important } h3 { font-size: 20px !important; line-height: 100% !important } h4 { font-size: 18px !important; line-height: 100% !important } #contentOuter .contentmaintd { vertical-align: top; padding: 0px !important } }@media only screen and (max-width: 480px) {.zpImage { height: auto !important; width: 100% !important } }@media only screen and (max-width: 480px) {.contentInner, .cols, .zpAlignPos { width: 100% !important; max-width: 100% !important } }@media only screen and (max-width: 480px) {.paddingcomp { padding-left: 15px !important; padding-right: 15px !important } .bannerimgpad { padding: 0px !important } }@media screen and (max-width: 480px) {.tmplheader, .tmplfooter { width: 100% !important; max-width: 400px !important; margin: 0px auto; text-align: center } }a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important }</style>
+
+</head><div><div class="zppage-container"><style>@media only screen and (max-width: 480px) {table[class="contentOuter"] { background: rgba(0, 0, 0, 0) !important } table[class="contentInner"] { width: 100% !important; padding: 0px; margin: 0px } img[class="zpImage"] { width: 260px !important; max-width: 360px !important; text-align: center; margin: 0px; padding: 0px } body, table, td, p, a, li, div, span, blockquote { } blockquote { outline: none !important; border: none !important } body { margin: 0px } pre { white-space: pre-wrap } table[class="zpImageCaption"] { text-align: left } table[class="cols"] { width: 100% !important; max-width: 100% !important; text-align: left } table[class="zpcolumns"] { text-align: left; margin: 0px } table[class="zpcolumn"] { text-align: left; margin: 0px } table[class="zpAlignPos"] { width: 100%; text-align: left; margin: 0px } .table table img { width: auto !important; max-width: 100% !important; max-height: none !important } td[class="txtsize"] { font-size: 18px !important } td[class="paddingcomp"] { padding-left: 15px !important; padding-right: 15px !important } td[class="bannerimgpad"] { padding: 0px !important } span[class="txtsize"] { font-size: 18px !important } img.imgsize_B { width: 100% !important; max-width: 100% !important; margin: 0px !important; padding: 0px !important } img.imgsize_F { width: 100% !important; max-width: 100% !important; margin: 0px !important; padding: 0px !important } img.imgsize_S { width: 100% !important; max-width: 105px !important; height: auto; margin: 0px auto !important; padding: 0px !important } img.imgsize_M { width: 100% !important; max-width: 227.869px !important; height: auto; margin: 0px auto !important; padding: 0px !important } img.imgsize_O { max-width: 100% !important; width: auto !important; height: auto !important } .buttonInnerLink { width: 100% !important; max-width: 250px !important; display: inline-block !important; word-wrap: break-word !important; text-align: center !important } .buttonOuterLink { width: 100% !important; max-width: 290px !important; display: inline-block !important; word-wrap: break-word !important; text-align: center !important } h1 { font-size: 28px !important; line-height: 100% !important } h2 { font-size: 24px !important; line-height: 100% !important } h3 { font-size: 20px !important; line-height: 100% !important } h4 { font-size: 18px !important; line-height: 100% !important } #contentOuter .contentmaintd { vertical-align: top; padding: 0px !important } }@media only screen and (max-width: 480px) {.zpImage { height: auto !important; width: 100% !important } }@media only screen and (max-width: 480px) {.contentInner, .cols, .zpAlignPos { width: 100% !important; max-width: 100% !important } }@media only screen and (max-width: 480px) {.paddingcomp { padding-left: 15px !important; padding-right: 15px !important } .bannerimgpad { padding: 0px !important } }@media screen and (max-width: 480px) {.tmplheader, .tmplfooter { width: 100% !important; max-width: 400px !important; margin: 0px auto; text-align: center } }a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important }</style>
+
+<table class="contentOuter" id="contentOuter" cellpadding="0" cellspacing="0" width="100%" style="width:100%; border:0px; font-family:Arial, Helvetica, sans-serif; color:rgb(17, 17, 17); font-size:13px; border-collapse:collapse; letter-spacing:normal; text-rendering:optimizeLegibility; background-color:rgb(240, 240, 240)">
+<tbody>
+<tr>
+<td align="center" class="contentmaintd" style="border:0px; padding-top:10px; padding-bottom:20px">
+<table class="contentInner" id="contentInner" cellpadding="0" cellspacing="0" width="600px" style="width:600px; border:0px; border-collapse:collapse; table-layout:fixed; background-color:rgb(255, 255, 255)">
+<tbody>
+<tr>
+<td valign="top" style="border:0px; word-wrap:break-word; word-break:break-word">
+<div class="zpcontent-wrapper" id="page-container">
+<table cellspacing="0" cellpadding="0" style="min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse" width="100%">
+<tbody>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper image">
+<table title="" cellspacing="0" cellpadding="0" style="min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgba(0, 0, 0, 0)" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap:break-word; word-break:break-word; border:0px; padding:0px 0px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17)">
+<p style="float:left; width:100%; padding:0px; margin:0px"><img alt='' style='width:600px; max-width:100%; vertical-align:top; resize:none' imgsize='B'  class="mailimage ZCrmImage" src="crm\img_id:4162b86ebd05ee1d03482a2c221ebd5ed3924769f9396ded26a1e722a3c855a7500b4842fecf8f393f082ad37d092d73aa19b675408ed7e4839a671aefef74333b4fdddc1e1d79e8b9afca33c914f7a546c8877386190a431fcf76b3f7e5d2ea630c3d0e3e2e58adf29eae6e2ac36ac6418e772b38462cbf0f8a9b5e19c365845a353c79d1af647dc3448bce155f3bb0852a875b9e87f49300115262d2b1cb4b26c5915dc9d88854211ccc0aa787fd1a03c9876b9137e9a6d0b55d59793199642a7619c6357c6db8c83128069b1a2e247c72cbc735d877ecb6f2f01acce283e1" orgwidth="499" width="600" height="286.163"></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper text">
+<table title="" cellspacing="0" cellpadding="0" style="text-rendering:optimizeLegibility; font-size:13px; letter-spacing:normal; font-family:Arial, Helvetica, sans-serif; min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgba(0, 0, 0, 0)" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap:break-word; word-break:break-word; border:0px; padding:6px 16px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17); font-family:Arial, Helvetica, sans-serif">
+<p style="text-align:center; padding:0px; margin:0px"><b style="font-family:Calibri, Candara, Segoe, &quot;Segoe UI&quot;, Optima, Arial, sans-serif; font-size:large">Dear  Rania Georgy Mansour Gerges</b></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper text">
+<table title="" cellspacing="0" cellpadding="0" style="text-rendering:optimizeLegibility; font-size:13px; letter-spacing:normal; font-family:Arial, Helvetica, sans-serif; min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgba(0, 0, 0, 0)" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap:break-word; word-break:break-word; border:0px; padding:6px 16px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17); font-family:Arial, Helvetica, sans-serif">
+<p style="text-align:justify; padding:0px; margin:0px"><b style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">Travco Properties is excited to announce the launch of the rental season
+for 2025.</span></b><span style="padding:0px; margin:0px"> Listing your unit with our Property Rental Management Department
+ensures maintaining our market standpoint and preserving our community
+standards.&nbsp;Our<b style="padding:0px; margin:0px"> Property Rental Management </b>service will offer you a <b style="padding:0px; margin:0px">seamless</b>
+and <b style="padding:0px; margin:0px">hassle-free</b> experience in leasing your unit&nbsp;and provide you
+with the following services:&nbsp;</span></p>
+<p style="padding:0px; margin:0px"><span style="padding:0px; margin:0px"></span></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper image">
+<table title="" cellspacing="0" cellpadding="0" style="min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgba(0, 0, 0, 0)" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap:break-word; word-break:break-word; border:0px; padding:6px 16px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17)">
+<p style="width:100%; padding:0px; margin:0px"><img alt='' style='width:100%; max-width:100%; vertical-align:top' imgsize='F'  class="mailimage ZCrmImage" src="crm\img_id:24511798bc9450dd703c37a006ff7990ca36ba727a7bd17452448610e3d5ec669bc6e66b8494255f6fd172c6961176ed011589cd7df487c5acc21b9a1baf2b9709e883aa088b38e664505bceed1d45f0e9512e5cf55b0c007c9bfa278f9a6467cf56e3b00165c65315433d64a5d5ee8fe409d422319c6aa75bcd9435bfa743d08a4fd4b3d97e898581756f17c5b84ff3789417282c0e04702e3791c100ca2ca80036c994b7c1fb436b70b66e07de2aa8114604b84594d08e9f66165d3615c72e7471c4261299ca6f4e55e1abbe5d4b3a690c193043cda794648c86c5f1c234ac" orgwidth="1831" width="540" height="286.649"></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper text">
+<table title="" cellspacing="0" cellpadding="0" style="text-rendering:optimizeLegibility; font-size:13px; letter-spacing:normal; font-family:Arial, Helvetica, sans-serif; min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgba(0, 0, 0, 0)" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap:break-word; word-break:break-word; border:0px; padding:6px 16px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17); font-family:Arial, Helvetica, sans-serif">
+<p style="text-align:left; line-height:12pt; padding:0px; margin:0px"></p>
+<ul style="padding:0px; margin:0px">
+<li><b style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px"><span style="padding:0px; margin:0px">Tenant Screening:</span></b><span style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px">&nbsp;we offer rigorous
+screening to ensure the highest caliber tenants rent your home.</span></li><li><b style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px"><span style="padding:0px; margin:0px">Property Listing:&nbsp;</span></b><span style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px">Your unit will be photographed
+and listed on our platform by our team.</span></li><li><b style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px"><span style="padding:0px; margin:0px">Rent Collection: </span></b><span style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px">Full rent will be collected on
+your behalf</span></li><li><b style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px"><span style="padding:0px; margin:0px">Availability Calendar: </span></b><span style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px">we will list the available
+dates as per your personal schedule.</span></li><li><b style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px"><span style="padding:0px; margin:0px">Housekeeping: </span></b><span style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px">Our housekeeping team will be
+performing the cleaning services between bookings.</span></li><li><b style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px"><span style="padding:0px; margin:0px">Unit Accessibility: </span></b><span style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px">Check-ins and check-outs will
+be handled by our trained Property Rental Management team.</span></li><li><b style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px"><span style="padding:0px; margin:0px">Desirability Report: </span></b><span style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px">A tenant feedback report will
+be shared with you to maximize rental desirability.&nbsp;</span></li><li><b style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px"><span style="padding:0px; margin:0px">Rate Advice: </span></b><span style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px">The Property Rental Management
+team will advise you on the best rental rates for your unit.<b style="padding:0px; margin:0px">&nbsp;</b></span></li><li><b style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px"><span style="padding:0px; margin:0px">Unit Checklist: </span></b><span style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px">Our team will be inspecting
+your unit after bookings.</span></li><li><b style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px"><span style="padding:0px; margin:0px">Security
+Deposit: </span></b><span style="background-color:rgba(0, 0, 0, 0); padding:0px; margin:0px">we
+collect security deposit from tenants to manage any possible damages.</span></li>
+</ul><p style="padding:0px; margin:0px"></p>
+<p style="padding:0px; margin:0px; line-height:12pt"><span style="padding:0px; margin:0px"></span></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper text">
+<table title="" cellspacing="0" cellpadding="0" style="text-rendering:optimizeLegibility; font-size:13px; letter-spacing:normal; font-family:Arial, Helvetica, sans-serif; min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgba(0, 0, 0, 0)" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap:break-word; word-break:break-word; border:0px; padding:6px 16px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17); font-family:Arial, Helvetica, sans-serif">
+<p style="text-align:left; padding:0px; margin:0px"><span style="padding:0px; margin:0px"><font size="1">*&nbsp;</font></span><font></font><font size="1"><span style="padding:0px; margin:0px">All of the above services will be
+offered for a fee of 15% from the value of the rent.</span><span style="padding:0px; margin:0px"></span></font></p>
+
+<p style="text-align:left; padding:0px; margin:0px"><font size="1"><span style="padding:0px; margin:0px">* Kindly note that the deadline
+for rental admissions is on&nbsp;<u style="padding:0px; margin:0px">May 31st.</u></span><span style="padding:0px; margin:0px"></span></font></p>
+
+<span style="padding:0px; margin:0px"><p style="text-align:left; padding:0px; margin:0px"><span style="background-color:rgba(0, 0, 0, 0)"><font size="1">* All admissions are based on first come
+first serve basis.</font></span></p>
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper spacebar">
+<table title="" cellspacing="0" cellpadding="0" style="min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgba(0, 0, 0, 0)" width="100%">
+<tbody>
+<tr>
+<td style="height:10px; border:0px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17)">
+<p style="height:10px; margin:0px; padding:0px"></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper text">
+<table title="" cellspacing="0" cellpadding="0" style="text-rendering:optimizeLegibility; font-size:13px; letter-spacing:normal; font-family:Arial, Helvetica, sans-serif; min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgba(0, 0, 0, 0)" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap:break-word; word-break:break-word; border:0px; padding:6px 16px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17); font-family:Arial, Helvetica, sans-serif">
+<div class="OutlineElement Ltr SCXW228591224 BCX0" style="margin:0px; padding:0px; overflow:visible; cursor:text; clear:both; position:relative; direction:ltr"><div style=""><p style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">To
+start the admissions process for your unit, kindly fill in the <a target="_blank"  href="https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.zohopublic.com%2Ftravco%2Fform%2FAlmazabayUnitRental2025Clone1%2Fformperma%2FrqJHldMuYJR-MCYecNkQFQZmprV36aHJDBD2xDRFvNY&amp;data=05%7C02%7Ckarim.khaled%40travco.com%7Cb1ffc9a62d674f63920708dd3ba6b5fb%7Cd2d926dc1f874d5282f40a7fadd756ec%7C0%7C0%7C638732309378464841%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=fpU3Lst3oLwf5T7HOhaM%2F9bSDe%2BjK3OmSQvMFYncSwc%3D&amp;reserved=0" style="padding:0px; margin:0px; text-decoration:none">Property
+Rental Management&nbsp;Submission Form</a>.&nbsp;</span></p>
+<p style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">&nbsp;</span></p>
+<p style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">Kindly
+make sure to review the <u style="padding:0px; margin:0px"><a target="_blank"  title="Frequently Asked Questions" target="_blank" href="https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fworkdrive.zohoexternal.com%2Fexternal%2F0344d68b3595fe82be26c4cc6bc14c2777d55aa21406cf1451ebb1d99dedfe50&amp;data=05%7C02%7Ckarim.khaled%40travco.com%7Cb1ffc9a62d674f63920708dd3ba6b5fb%7Cd2d926dc1f874d5282f40a7fadd756ec%7C0%7C0%7C638732309378478591%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=qjD9w8Nolgjj9%2BlbLCaD4qS8qMi%2FZPHcw3%2F%2FBEdJL%2Fs%3D&amp;reserved=0" style="padding:0px; margin:0px; text-decoration:none">Property Rental Management
+FAQs</a></u> first before registering your unit.</span></p>
+<p style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">&nbsp;</span></p>
+<p style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">Once
+you successfully register your unit and fill in the form, a member of the
+Property Rental Management department will get in contact with you to finalize
+the remaining steps before leasing your unit.</span></p>
+<p style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">&nbsp;</span></p>
+<p style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">To
+view and book the available listings on our online Property Rental Management
+platform, please refer to <a target="_blank"  title="https://almazabay.lodgify.com/" target="_blank" href="https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Flinkprotect.cudasvc.com%2Furl%3Fa%3Dhttps%253a%252f%252feur03.safelinks.protection.outlook.com%252f%253furl%253dhttps%25253A%25252F%25252Falmazabay.lodgify.com%25252F%2526data%253d05%25257C02%25257Calya.hosny%252540travco.com%25257C77dcc3c9908d4aba7d3808dc31438316%25257Cd2d926dc1f874d5282f40a7fadd756ec%25257C0%25257C0%25257C638439413235710916%25257CUnknown%25257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%25253D%25257C0%25257C%25257C%25257C%2526sdata%253d80SEy8bjUwT0QeM74QMpIPvSZkjhmu5W8RBgLFY9cbU%25253D%2526reserved%253d0%26c%3DE%2C1%2Cb9r9y1mP6MPBYGUPzRfhpJP1fJ9e7hk2DLi_dXi-49UQFpojhvDGn_dbpg4mLnjMfvWq-bmIo5Vc5PkNFhMz8I1eVFTMmrbVgkO7mfZujQJIXenYQbnVVw%2C%2C%26typo%3D1&amp;data=05%7C02%7Ckarim.khaled%40travco.com%7Cb1ffc9a62d674f63920708dd3ba6b5fb%7Cd2d926dc1f874d5282f40a7fadd756ec%7C0%7C0%7C638732309378491777%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=v7XrX9oKL5cYJKWwST5J64H5fMu%2FDIcVg9%2FXBdY6Klo%3D&amp;reserved=0" style="padding:0px; margin:0px; text-decoration:none"><span style="padding:0px; margin:0px">www.almazabay.lodgify.com</span></a>.</span></p>
+<p style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">&nbsp;</span></p>
+<p style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">We
+always look forward to providing our community with&nbsp;an elevated quality
+of&nbsp;service each year. If you have any inquiries, please do not hesitate to
+contact us.</span></p>
+<p style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">&nbsp;</span></p>
+<p style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">Best
+Regards,</span></p>
+<p style="padding:0px; margin:0px">
+<span style="padding:0px; margin:0px">Property Rental Management Department<br style="padding:0px; margin:0px" />
+Almaza Bay</span><font></font></p>
+</div></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper spacebar">
+<table title="" cellspacing="0" cellpadding="0" style="min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgba(0, 0, 0, 0)" width="100%">
+<tbody>
+<tr>
+<td style="height:7px; border:0px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17)">
+<p style="height:7px; margin:0px; padding:0px"></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper spacebar">
+<table title="" cellspacing="0" cellpadding="0" style="min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgba(0, 0, 0, 0)" width="100%">
+<tbody>
+<tr>
+<td style="height:5px; border:0px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17)">
+<p style="height:5px; margin:0px; padding:0px"></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper text">
+<table title="" cellspacing="0" cellpadding="0" style="text-rendering:optimizeLegibility; font-size:13px; letter-spacing:normal; font-family:Arial, Helvetica, sans-serif; min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgb(26, 191, 220)" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap:break-word; word-break:break-word; border:0px; padding:6px 16px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17); font-family:Arial, Helvetica, sans-serif">
+<p align="center" style="padding:0px; margin:0px"><b style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">Get in touch with
+us</span></b></p>
+<p align="center" style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">For any inquiries,
+please contact us on the below numbers:</span></p>
+<p align="center" style="padding:0px; margin:0px"><b style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">Hotline</span></b><span style="padding:0px; margin:0px">:&nbsp;16160</span></p>
+<p style="text-align:center; padding:0px; margin:0px">
+<b style="padding:0px; margin:0px"><span style="padding:0px; margin:0px">Email</span></b><span style="padding:0px; margin:0px">:&nbsp;<a target="_blank"  href="mailto:rent@almazabay.com" style="padding:0px; margin:0px; text-decoration:none"><span style="padding:0px; margin:0px"><font color="#ffffff">rent@almazabay.com</font></span><font></font></a>
+I <a target="_blank"  href="mailto:cm@almazabay.com" style="padding:0px; margin:0px; text-decoration:none"><span style="padding:0px; margin:0px"><font color="#ffffff">cm@almazabay.com</font></span><font></font></a></span></p>
+<link></link><link></link>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper spacebar">
+<table title="" cellspacing="0" cellpadding="0" style="min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgba(0, 0, 0, 0)" width="100%">
+<tbody>
+<tr>
+<td style="height:10px; border:0px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17)">
+<p style="height:10px; margin:0px; padding:0px"></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="txtsize" valign="top" style="border:0px">
+<div class="zpelement-wrapper spacebar">
+<table title="" cellspacing="0" cellpadding="0" style="min-width:100%; max-width:100%; table-layout:fixed; border:0px; border-collapse:collapse; background-color:rgba(0, 0, 0, 0)" width="100%">
+<tbody>
+<tr>
+<td style="height:10px; border:0px; border-top:0px none rgb(17, 17, 17); border-bottom:0px none rgb(17, 17, 17)">
+<p style="height:10px; margin:0px; padding:0px"></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div></div></html>
