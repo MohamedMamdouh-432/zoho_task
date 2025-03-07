@@ -1,23 +1,11 @@
 const express = require('express');
 const morgan = require('morgan');
-const multer = require('multer');
-const extractHtml = require('./extract_html');
+const extractHtmlText = require('./extract_html');
 
 const server = express();
 server.use(morgan('dev'));
 server.use(express.urlencoded({ extended: true }));
-server.use(express.json());
-
-const storage = multer.diskStorage({
-    destination: function (req, file, cb) {
-        cb(null, '/tmp');
-    },
-    filename: function (req, file, cb) {
-        cb(null, file.originalname);
-    },
-});
-
-const upload = multer({ storage: storage });
+server.use(express.text());
 
 server.get('/', (_, res) => {
     res.status(200).send({
@@ -26,14 +14,14 @@ server.get('/', (_, res) => {
     });
 });
 
-server.post('/htmlextract', upload.single('file'), async (req, res) => {
+server.post('/htmlextract', async (req, res) => {
     try {
-        if (!req.file)
+        if (!req.body)
             return res.status(400).send({
                 status: 'failed',
-                error: 'No File Uploaded ...',
+                error: 'No Data Received',
             });
-        const extractedText = await extractHtml(req.file.path);
+        const extractedText = await extractHtmlText(req.body);
         res.status(200).send({
             status: 'success',
             text: extractedText,
