@@ -6,5 +6,8 @@
         npm install
     Run:
         npm run start
-## Host
-    http://localhost:3000
+## API
+    Host: https://zoho-task.vercel.app
+    EndPoints:
+        1. home: /
+        2. extract: /htmlextract
