@@ -24,7 +24,7 @@ module.exports = async (htmlCode) => {
         const document = dom.window.document;
 
         const extractedText = extractText(document.body)
-            .replace(/\n{3,}/g, '\n') 
+            // .replace(/\n{3,}/g, '\n') 
             .replace(/[ \t]+/g, ' ')   
             .trim();
 
