@@ -10,9 +10,9 @@ function extractText(node) {
             !['STYLE', 'SCRIPT', 'NOSCRIPT', 'LINK', 'META'].includes(child.nodeName)
         ) {
             text += extractText(child);
-            // if (child.nodeName === 'P') {
-            //     text += '\n';
-            // }
+            if (child.nodeName === 'P') {
+                text += '\n';
+            }
         }
     });
     return text;
@@ -24,7 +24,7 @@ module.exports = async (htmlCode) => {
         const document = dom.window.document;
 
         const extractedText = extractText(document.body)
-            // .replace(/\n{3,}/g, '\n') 
+            .replace(/\n{2,}/g, '\n') 
             .replace(/[ \t]+/g, ' ')   
             .trim();
 
