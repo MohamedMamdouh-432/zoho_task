@@ -11,7 +11,7 @@ function extractText(node) {
         ) {
             text += extractText(child);
             if (child.nodeName === 'P') {
-                text += '\n\n';
+                text += '\n';
             }
         }
     });
