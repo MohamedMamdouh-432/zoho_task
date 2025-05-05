@@ -11,9 +11,12 @@ function extractText(node) {
                 child.nodeName
             )
         ) {
+            if (child.nodeName === 'BR') {
+                text += '\n';
+            }
             text += extractText(child);
             if (child.nodeName === 'P') {
-                text += '<br>';
+                text += '\n\n';
             }
         }
     });
