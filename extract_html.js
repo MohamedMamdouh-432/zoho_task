@@ -10,9 +10,9 @@ function extractText(node) {
             !['STYLE', 'SCRIPT', 'NOSCRIPT', 'LINK', 'META'].includes(child.nodeName)
         ) {
             text += extractText(child);
-            if (child.nodeName === 'P') {
-                text += '\n';
-            }
+            // if (child.nodeName === 'P') {
+            //     text += '\n';
+            // }
         }
     });
     return text;
